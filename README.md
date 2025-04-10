@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-I'm a **QA Engineer** with a strong focus on both manual and automated testing. I’m dedicated to ensuring software quality, performance, and usability — combining technical skill with a sharp eye for detail.
+I’m a Junior QA Engineer with over 3 years of experience in manual testing for web and mobile applications, recently strengthened by completing a QA course. I’m dedicated to ensuring software quality, performance, and usability — combining technical skill with a sharp eye for detail.
 
 ## 💼 About Me
 
