@@ -10,30 +10,35 @@ I'm a **QA Engineer** with a strong focus on both manual and automated testing. 
 - Skilled in identifying bugs, improving usability, and collaborating with dev teams  
 - Passionate about maintaining high-quality digital experiences
 
-## 🧰 QA Skills & Tools
+## 🛠️ Tech Stack
 
-- **Manual Testing**
-- **Postman** for API testing
-- **SQL** for data validation and test queries
-- **Selenium WebDriver**
-- **JavaScript** (for scripting and automation)
-- **Android Studio** for mobile testing
-- **JSON & XML/XSD**
-- **Swagger / Apidoc**
-- **Chrome DevTools**
-- **Git**
-- **Terminal / Command Line**
-- **Figma**
-- **Locomotive Scroll**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-## 🔍 Key Strengths
+## 🔍 Key Skills
 
-- Clear and structured bug reporting  
-- Strong analytical thinking and attention to detail  
-- Versatility across web, mobile, and backend testing  
-- Comfortable working in Agile workflows
+- Manual Testing (Functional, Regression, UI/UX, Smoke Testing)  
+- Selenium WebDriver (Automation Testing)  
+- API Testing with Postman & Swagger  
+- SQL for data validation and queries  
+- Working knowledge of JavaScript for automation  
+- Familiarity with DevTools, Android Studio, Git, Terminal, JSON, XML/XSD, and Figma
+
+## 📈 GitHub Stats
+
+![Damien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damienrozan&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 
 - 🌐 [damienrozan.com](https://damienrozan.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/damienrozan)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=damienrozan&label=Profile%20views&color=0e75b6&style=flat)
