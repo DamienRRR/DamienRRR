@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-I’m a Junior QA Engineer with over 3 years of experience in manual testing for web and mobile applications, recently strengthened by completing a QA course which included automation . I’m dedicated to ensuring software quality, performance, and usability — combining technical skill with a sharp eye for detail.
+I’m a Junior QA Engineer with over 3 years of experience in manual testing for web and mobile applications, recently strengthened by completing a QA course which included automation. I’m dedicated to ensuring software quality, performance, and usability — combining technical skill with a sharp eye for detail.
 
 ## 💼 About Me
 
@@ -29,10 +29,6 @@ I’m a Junior QA Engineer with over 3 years of experience in manual testing for
 - SQL for data validation and queries  
 - Working knowledge of JavaScript for automation  
 - Familiarity with DevTools, Android Studio, Git, Terminal, JSON, XML/XSD, and Figma
-
-## 📈 GitHub Stats
-
-![Damien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damienrozan&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 
