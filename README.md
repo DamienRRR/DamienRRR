@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Damien Rozan
+# 👋 Hi, I'm Damien
 
 I build and ship products.
 
@@ -64,11 +64,6 @@ I do both.
 That means faster iteration, fewer issues in production, and products that actually hold up under real usage.
 
 ---
-
-## 📫 Connect
-
-- 🌐 https://damienrozan.com  
-- 💼 https://www.linkedin.com/in/damienrozan  
 
 ---
 
