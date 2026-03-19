@@ -1,39 +1,74 @@
 # 👋 Hi, I'm Damien Rozan
 
-Welcome to my GitHub.
+I build and ship products.
 
-I’m a Junior QA Engineer with over 3 years of experience in manual testing for web and mobile applications, recently strengthened by completing a QA course which included automation. I’m dedicated to ensuring software quality, performance, and usability — combining technical skill with a sharp eye for detail.
+From AI-powered SaaS platforms to web and mobile apps, I focus on turning ideas into real, working systems that people actually use.
 
-## 💼 About Me
+I combine product thinking, development, and QA into one workflow — so what gets built is not just launched, but reliable, usable, and scalable.
 
-- Experienced in designing and executing test cases  
-- Skilled in identifying bugs, improving usability, and collaborating with dev teams  
-- Passionate about maintaining high-quality digital experiences
+---
+
+## 🚀 What I Do
+
+- Build and launch SaaS products  
+- Design and develop web & mobile apps (HTML, CSS, JavaScript, React, Next.js, React Native)  
+- Create AI-driven automation and customer engagement systems  
+- Turn concepts into production-ready products fast  
+
+---
+
+## 🧠 Current Focus
+
+- AI-powered SaaS platforms  
+- Lead generation and automation systems  
+- Conversion-focused web apps  
+- Scalable product infrastructure  
+
+---
 
 ## 🛠️ Tech Stack
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+**Frontend & Mobile**
+- JavaScript, React, Next.js, React Native  
+- HTML, CSS  
 
-## 🔍 Key Skills
+**Testing & QA**
+- Selenium WebDriver  
+- Manual Testing (Functional, Regression, UI/UX)  
 
-- Manual Testing (Functional, Regression, UI/UX, Smoke Testing)  
-- Selenium WebDriver (Automation Testing)  
-- API Testing with Postman & Swagger  
-- SQL for data validation and queries  
-- Working knowledge of JavaScript for automation  
-- Familiarity with DevTools, Android Studio, Git, Terminal, JSON, XML/XSD, and Figma
+**APIs & Data**
+- Postman, Swagger  
+- SQL  
 
-## 📫 Let's Connect
+**Tools & Workflow**
+- Git, DevTools, Figma, Android Studio  
+- JSON, XML/XSD  
 
-- 🌐 [damienrozan.com](https://damienrozan.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/damienrozan)
+---
+
+## 🔍 How I Work
+
+- Idea → PRD → Build → Test → Launch → Iterate  
+- Fast execution with real-world feedback  
+- QA integrated from day one, not afterthought  
+- Focus on usability, performance, and results  
+
+---
+
+## ⚡ Edge
+
+Most people either build or test.
+
+I do both.
+
+That means faster iteration, fewer issues in production, and products that actually hold up under real usage.
+
+---
+
+## 📫 Connect
+
+- 🌐 https://damienrozan.com  
+- 💼 https://www.linkedin.com/in/damienrozan  
 
 ---
 
